@@ -1,0 +1,4 @@
+python27 pacman.py -l miniWumpus -g WumpusGhost
+python27 pacman.py -l miniWumpus -p PacardAgent -a fn=logicBasedSearch -g WumpusGhost
+python27 pacman.py -l miniWumpus -p PacardAgent -a fn=miniWumpusSearch -g WumpusGhost
+
