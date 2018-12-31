@@ -1,4 +1,5 @@
 ### Lab assignments<br/>
+[Course link](https://www.fer.unizg.hr/en/course/apr)<br/>
 DZ = Lab<br/>
 DZ or Task classes are entry points for program<br/><br/>
 Lab 1 - Matrix operations, LU and LUP decomposition, linear system solver<br/>
