@@ -1,4 +1,5 @@
 ### Lab assignments<br/>
+[Course link](https://www.fer.unizg.hr/en/course/artint)<br/>
 Lab 1 - BFS, DFS, A* search, heuristics <br/>
 Lab 2 - proofs by contradiction using resolution in proposition logic, search using logic<br/>
 Lab 3 - reinforcement learning<br/>
