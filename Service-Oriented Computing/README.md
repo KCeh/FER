@@ -1,5 +1,5 @@
 ### Lab assignments<br/>
-[Course link](https://www.fer.unizg.hr/en/course/sercom<br/>
+[Course link](https://www.fer.unizg.hr/en/course/sercom)<br/>
 
 Spring framework used<br/>
 
