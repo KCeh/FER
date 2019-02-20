@@ -7,7 +7,7 @@ Lab 2 - Optimization methods: Golden-section search, Coordinate descent, Nelderâ
 Lab 3 - Optimization methods: Gradient descent (steepest descent), Newton-Raphson method<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Optimization problems with constraints: Box method, Tranformation in problem without constraints<br/>
 Lab 4 - Genetic algorithm with elimination and tournament selection, binary and floating point chromosome<br/>
-Lab 5 - TODO<br/><br/>
+Lab 5 - Numerical integration (Trapezoidal  metod, Rungeâ€“Kutta 4th order), matrix inverse<br/><br/>
 Note: there is no package structure for assignments due to easy console compile and run requirement
 
 
